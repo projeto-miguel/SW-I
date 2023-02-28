@@ -1,0 +1,15 @@
+C:\Users\LAB4\Documents\classes\aviao\bin\Debug\net7.0\aviao.exe
+C:\Users\LAB4\Documents\classes\aviao\bin\Debug\net7.0\aviao.deps.json
+C:\Users\LAB4\Documents\classes\aviao\bin\Debug\net7.0\aviao.runtimeconfig.json
+C:\Users\LAB4\Documents\classes\aviao\bin\Debug\net7.0\aviao.dll
+C:\Users\LAB4\Documents\classes\aviao\bin\Debug\net7.0\aviao.pdb
+C:\Users\LAB4\Documents\classes\aviao\obj\Debug\net7.0\aviao.csproj.AssemblyReference.cache
+C:\Users\LAB4\Documents\classes\aviao\obj\Debug\net7.0\aviao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB4\Documents\classes\aviao\obj\Debug\net7.0\aviao.AssemblyInfoInputs.cache
+C:\Users\LAB4\Documents\classes\aviao\obj\Debug\net7.0\aviao.AssemblyInfo.cs
+C:\Users\LAB4\Documents\classes\aviao\obj\Debug\net7.0\aviao.csproj.CoreCompileInputs.cache
+C:\Users\LAB4\Documents\classes\aviao\obj\Debug\net7.0\aviao.dll
+C:\Users\LAB4\Documents\classes\aviao\obj\Debug\net7.0\refint\aviao.dll
+C:\Users\LAB4\Documents\classes\aviao\obj\Debug\net7.0\aviao.pdb
+C:\Users\LAB4\Documents\classes\aviao\obj\Debug\net7.0\aviao.genruntimeconfig.cache
+C:\Users\LAB4\Documents\classes\aviao\obj\Debug\net7.0\ref\aviao.dll
