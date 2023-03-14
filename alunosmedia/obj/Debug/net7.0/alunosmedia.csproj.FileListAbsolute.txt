@@ -1,0 +1,15 @@
+C:\Users\LAB4\Desktop\alunosmedia\bin\Debug\net7.0\alunosmedia.exe
+C:\Users\LAB4\Desktop\alunosmedia\bin\Debug\net7.0\alunosmedia.deps.json
+C:\Users\LAB4\Desktop\alunosmedia\bin\Debug\net7.0\alunosmedia.runtimeconfig.json
+C:\Users\LAB4\Desktop\alunosmedia\bin\Debug\net7.0\alunosmedia.dll
+C:\Users\LAB4\Desktop\alunosmedia\bin\Debug\net7.0\alunosmedia.pdb
+C:\Users\LAB4\Desktop\alunosmedia\obj\Debug\net7.0\alunosmedia.csproj.AssemblyReference.cache
+C:\Users\LAB4\Desktop\alunosmedia\obj\Debug\net7.0\alunosmedia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB4\Desktop\alunosmedia\obj\Debug\net7.0\alunosmedia.AssemblyInfoInputs.cache
+C:\Users\LAB4\Desktop\alunosmedia\obj\Debug\net7.0\alunosmedia.AssemblyInfo.cs
+C:\Users\LAB4\Desktop\alunosmedia\obj\Debug\net7.0\alunosmedia.csproj.CoreCompileInputs.cache
+C:\Users\LAB4\Desktop\alunosmedia\obj\Debug\net7.0\alunosmedia.dll
+C:\Users\LAB4\Desktop\alunosmedia\obj\Debug\net7.0\refint\alunosmedia.dll
+C:\Users\LAB4\Desktop\alunosmedia\obj\Debug\net7.0\alunosmedia.pdb
+C:\Users\LAB4\Desktop\alunosmedia\obj\Debug\net7.0\alunosmedia.genruntimeconfig.cache
+C:\Users\LAB4\Desktop\alunosmedia\obj\Debug\net7.0\ref\alunosmedia.dll
