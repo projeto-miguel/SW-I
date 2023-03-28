@@ -1,0 +1,15 @@
+C:\Users\LAB4\Desktop\pessoa\bin\Debug\net7.0\pessoa.exe
+C:\Users\LAB4\Desktop\pessoa\bin\Debug\net7.0\pessoa.deps.json
+C:\Users\LAB4\Desktop\pessoa\bin\Debug\net7.0\pessoa.runtimeconfig.json
+C:\Users\LAB4\Desktop\pessoa\bin\Debug\net7.0\pessoa.dll
+C:\Users\LAB4\Desktop\pessoa\bin\Debug\net7.0\pessoa.pdb
+C:\Users\LAB4\Desktop\pessoa\obj\Debug\net7.0\pessoa.csproj.AssemblyReference.cache
+C:\Users\LAB4\Desktop\pessoa\obj\Debug\net7.0\pessoa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB4\Desktop\pessoa\obj\Debug\net7.0\pessoa.AssemblyInfoInputs.cache
+C:\Users\LAB4\Desktop\pessoa\obj\Debug\net7.0\pessoa.AssemblyInfo.cs
+C:\Users\LAB4\Desktop\pessoa\obj\Debug\net7.0\pessoa.csproj.CoreCompileInputs.cache
+C:\Users\LAB4\Desktop\pessoa\obj\Debug\net7.0\pessoa.dll
+C:\Users\LAB4\Desktop\pessoa\obj\Debug\net7.0\refint\pessoa.dll
+C:\Users\LAB4\Desktop\pessoa\obj\Debug\net7.0\pessoa.pdb
+C:\Users\LAB4\Desktop\pessoa\obj\Debug\net7.0\pessoa.genruntimeconfig.cache
+C:\Users\LAB4\Desktop\pessoa\obj\Debug\net7.0\ref\pessoa.dll
