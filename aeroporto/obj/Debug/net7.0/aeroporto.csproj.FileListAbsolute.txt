@@ -1,0 +1,15 @@
+D:\Etec Informática\C#\aeroporto04042023\aeroporto\bin\Debug\net7.0\aeroporto.exe
+D:\Etec Informática\C#\aeroporto04042023\aeroporto\bin\Debug\net7.0\aeroporto.deps.json
+D:\Etec Informática\C#\aeroporto04042023\aeroporto\bin\Debug\net7.0\aeroporto.runtimeconfig.json
+D:\Etec Informática\C#\aeroporto04042023\aeroporto\bin\Debug\net7.0\aeroporto.dll
+D:\Etec Informática\C#\aeroporto04042023\aeroporto\bin\Debug\net7.0\aeroporto.pdb
+D:\Etec Informática\C#\aeroporto04042023\aeroporto\obj\Debug\net7.0\aeroporto.csproj.AssemblyReference.cache
+D:\Etec Informática\C#\aeroporto04042023\aeroporto\obj\Debug\net7.0\aeroporto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Etec Informática\C#\aeroporto04042023\aeroporto\obj\Debug\net7.0\aeroporto.AssemblyInfoInputs.cache
+D:\Etec Informática\C#\aeroporto04042023\aeroporto\obj\Debug\net7.0\aeroporto.AssemblyInfo.cs
+D:\Etec Informática\C#\aeroporto04042023\aeroporto\obj\Debug\net7.0\aeroporto.csproj.CoreCompileInputs.cache
+D:\Etec Informática\C#\aeroporto04042023\aeroporto\obj\Debug\net7.0\aeroporto.dll
+D:\Etec Informática\C#\aeroporto04042023\aeroporto\obj\Debug\net7.0\refint\aeroporto.dll
+D:\Etec Informática\C#\aeroporto04042023\aeroporto\obj\Debug\net7.0\aeroporto.pdb
+D:\Etec Informática\C#\aeroporto04042023\aeroporto\obj\Debug\net7.0\aeroporto.genruntimeconfig.cache
+D:\Etec Informática\C#\aeroporto04042023\aeroporto\obj\Debug\net7.0\ref\aeroporto.dll
