@@ -1,0 +1,15 @@
+C:\Users\LAB4\Desktop\cartaocredito\bin\Debug\net7.0\cartaocredito.exe
+C:\Users\LAB4\Desktop\cartaocredito\bin\Debug\net7.0\cartaocredito.deps.json
+C:\Users\LAB4\Desktop\cartaocredito\bin\Debug\net7.0\cartaocredito.runtimeconfig.json
+C:\Users\LAB4\Desktop\cartaocredito\bin\Debug\net7.0\cartaocredito.dll
+C:\Users\LAB4\Desktop\cartaocredito\bin\Debug\net7.0\cartaocredito.pdb
+C:\Users\LAB4\Desktop\cartaocredito\obj\Debug\net7.0\cartaocredito.csproj.AssemblyReference.cache
+C:\Users\LAB4\Desktop\cartaocredito\obj\Debug\net7.0\cartaocredito.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB4\Desktop\cartaocredito\obj\Debug\net7.0\cartaocredito.AssemblyInfoInputs.cache
+C:\Users\LAB4\Desktop\cartaocredito\obj\Debug\net7.0\cartaocredito.AssemblyInfo.cs
+C:\Users\LAB4\Desktop\cartaocredito\obj\Debug\net7.0\cartaocredito.csproj.CoreCompileInputs.cache
+C:\Users\LAB4\Desktop\cartaocredito\obj\Debug\net7.0\cartaocredito.dll
+C:\Users\LAB4\Desktop\cartaocredito\obj\Debug\net7.0\refint\cartaocredito.dll
+C:\Users\LAB4\Desktop\cartaocredito\obj\Debug\net7.0\cartaocredito.pdb
+C:\Users\LAB4\Desktop\cartaocredito\obj\Debug\net7.0\cartaocredito.genruntimeconfig.cache
+C:\Users\LAB4\Desktop\cartaocredito\obj\Debug\net7.0\ref\cartaocredito.dll
