@@ -1,0 +1,15 @@
+C:\Users\LAB4\Desktop\avaliativo2bim\bin\Debug\net7.0\avaliativo2bim.exe
+C:\Users\LAB4\Desktop\avaliativo2bim\bin\Debug\net7.0\avaliativo2bim.deps.json
+C:\Users\LAB4\Desktop\avaliativo2bim\bin\Debug\net7.0\avaliativo2bim.runtimeconfig.json
+C:\Users\LAB4\Desktop\avaliativo2bim\bin\Debug\net7.0\avaliativo2bim.dll
+C:\Users\LAB4\Desktop\avaliativo2bim\bin\Debug\net7.0\avaliativo2bim.pdb
+C:\Users\LAB4\Desktop\avaliativo2bim\obj\Debug\net7.0\avaliativo2bim.csproj.AssemblyReference.cache
+C:\Users\LAB4\Desktop\avaliativo2bim\obj\Debug\net7.0\avaliativo2bim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB4\Desktop\avaliativo2bim\obj\Debug\net7.0\avaliativo2bim.AssemblyInfoInputs.cache
+C:\Users\LAB4\Desktop\avaliativo2bim\obj\Debug\net7.0\avaliativo2bim.AssemblyInfo.cs
+C:\Users\LAB4\Desktop\avaliativo2bim\obj\Debug\net7.0\avaliativo2bim.csproj.CoreCompileInputs.cache
+C:\Users\LAB4\Desktop\avaliativo2bim\obj\Debug\net7.0\avaliativo2bim.dll
+C:\Users\LAB4\Desktop\avaliativo2bim\obj\Debug\net7.0\refint\avaliativo2bim.dll
+C:\Users\LAB4\Desktop\avaliativo2bim\obj\Debug\net7.0\avaliativo2bim.pdb
+C:\Users\LAB4\Desktop\avaliativo2bim\obj\Debug\net7.0\avaliativo2bim.genruntimeconfig.cache
+C:\Users\LAB4\Desktop\avaliativo2bim\obj\Debug\net7.0\ref\avaliativo2bim.dll
