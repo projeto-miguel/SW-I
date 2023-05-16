@@ -1,0 +1,15 @@
+C:\Users\LAB4\Desktop\contrato2\bin\Debug\net7.0\contrato2.exe
+C:\Users\LAB4\Desktop\contrato2\bin\Debug\net7.0\contrato2.deps.json
+C:\Users\LAB4\Desktop\contrato2\bin\Debug\net7.0\contrato2.runtimeconfig.json
+C:\Users\LAB4\Desktop\contrato2\bin\Debug\net7.0\contrato2.dll
+C:\Users\LAB4\Desktop\contrato2\bin\Debug\net7.0\contrato2.pdb
+C:\Users\LAB4\Desktop\contrato2\obj\Debug\net7.0\contrato2.csproj.AssemblyReference.cache
+C:\Users\LAB4\Desktop\contrato2\obj\Debug\net7.0\contrato2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB4\Desktop\contrato2\obj\Debug\net7.0\contrato2.AssemblyInfoInputs.cache
+C:\Users\LAB4\Desktop\contrato2\obj\Debug\net7.0\contrato2.AssemblyInfo.cs
+C:\Users\LAB4\Desktop\contrato2\obj\Debug\net7.0\contrato2.csproj.CoreCompileInputs.cache
+C:\Users\LAB4\Desktop\contrato2\obj\Debug\net7.0\contrato2.dll
+C:\Users\LAB4\Desktop\contrato2\obj\Debug\net7.0\refint\contrato2.dll
+C:\Users\LAB4\Desktop\contrato2\obj\Debug\net7.0\contrato2.pdb
+C:\Users\LAB4\Desktop\contrato2\obj\Debug\net7.0\contrato2.genruntimeconfig.cache
+C:\Users\LAB4\Desktop\contrato2\obj\Debug\net7.0\ref\contrato2.dll
