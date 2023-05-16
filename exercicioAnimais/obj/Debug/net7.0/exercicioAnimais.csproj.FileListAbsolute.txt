@@ -1,0 +1,15 @@
+C:\Users\LAB4\Desktop\exercicioAnimais\bin\Debug\net7.0\exercicioAnimais.exe
+C:\Users\LAB4\Desktop\exercicioAnimais\bin\Debug\net7.0\exercicioAnimais.deps.json
+C:\Users\LAB4\Desktop\exercicioAnimais\bin\Debug\net7.0\exercicioAnimais.runtimeconfig.json
+C:\Users\LAB4\Desktop\exercicioAnimais\bin\Debug\net7.0\exercicioAnimais.dll
+C:\Users\LAB4\Desktop\exercicioAnimais\bin\Debug\net7.0\exercicioAnimais.pdb
+C:\Users\LAB4\Desktop\exercicioAnimais\obj\Debug\net7.0\exercicioAnimais.csproj.AssemblyReference.cache
+C:\Users\LAB4\Desktop\exercicioAnimais\obj\Debug\net7.0\exercicioAnimais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB4\Desktop\exercicioAnimais\obj\Debug\net7.0\exercicioAnimais.AssemblyInfoInputs.cache
+C:\Users\LAB4\Desktop\exercicioAnimais\obj\Debug\net7.0\exercicioAnimais.AssemblyInfo.cs
+C:\Users\LAB4\Desktop\exercicioAnimais\obj\Debug\net7.0\exercicioAnimais.csproj.CoreCompileInputs.cache
+C:\Users\LAB4\Desktop\exercicioAnimais\obj\Debug\net7.0\exercicioAnimais.dll
+C:\Users\LAB4\Desktop\exercicioAnimais\obj\Debug\net7.0\refint\exercicioAnimais.dll
+C:\Users\LAB4\Desktop\exercicioAnimais\obj\Debug\net7.0\exercicioAnimais.pdb
+C:\Users\LAB4\Desktop\exercicioAnimais\obj\Debug\net7.0\exercicioAnimais.genruntimeconfig.cache
+C:\Users\LAB4\Desktop\exercicioAnimais\obj\Debug\net7.0\ref\exercicioAnimais.dll
