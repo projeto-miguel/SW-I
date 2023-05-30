@@ -1,0 +1,15 @@
+C:\Users\LAB4\Desktop\EXER02\bin\Debug\net7.0\EXER02.exe
+C:\Users\LAB4\Desktop\EXER02\bin\Debug\net7.0\EXER02.deps.json
+C:\Users\LAB4\Desktop\EXER02\bin\Debug\net7.0\EXER02.runtimeconfig.json
+C:\Users\LAB4\Desktop\EXER02\bin\Debug\net7.0\EXER02.dll
+C:\Users\LAB4\Desktop\EXER02\bin\Debug\net7.0\EXER02.pdb
+C:\Users\LAB4\Desktop\EXER02\obj\Debug\net7.0\EXER02.csproj.AssemblyReference.cache
+C:\Users\LAB4\Desktop\EXER02\obj\Debug\net7.0\EXER02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB4\Desktop\EXER02\obj\Debug\net7.0\EXER02.AssemblyInfoInputs.cache
+C:\Users\LAB4\Desktop\EXER02\obj\Debug\net7.0\EXER02.AssemblyInfo.cs
+C:\Users\LAB4\Desktop\EXER02\obj\Debug\net7.0\EXER02.csproj.CoreCompileInputs.cache
+C:\Users\LAB4\Desktop\EXER02\obj\Debug\net7.0\EXER02.dll
+C:\Users\LAB4\Desktop\EXER02\obj\Debug\net7.0\refint\EXER02.dll
+C:\Users\LAB4\Desktop\EXER02\obj\Debug\net7.0\EXER02.pdb
+C:\Users\LAB4\Desktop\EXER02\obj\Debug\net7.0\EXER02.genruntimeconfig.cache
+C:\Users\LAB4\Desktop\EXER02\obj\Debug\net7.0\ref\EXER02.dll
